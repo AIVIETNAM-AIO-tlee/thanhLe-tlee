@@ -1,7 +1,10 @@
 # Thanh Le
-Computer Science Student at Ho Chi Minh City University of Technology (HCMUT)
 
-Interested in Artificial Intelligence, Machine Learning, Natural Language Processing, and Software Engineering.
+Computer Science Student at Ho Chi Minh City University of Technology (HCMUT).
+
+AI & Software Engineering Enthusiast
+
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square)
@@ -10,6 +13,8 @@ Interested in Artificial Intelligence, Machine Learning, Natural Language Proces
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 
 Focused on building practical AI applications, exploring NLP, LLMs, and scalable software systems.
+
+## Github Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=AIVIETNAM-AIO-tlee\&show_icons=true\&rank_icon=github)
 
